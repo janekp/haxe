@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMCanSpellCheckCodeRuns</key>
+	<true/>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<true/>
+	<key>BBLMKeywordList</key>
+	<array>
+	    <string>#error</string>
+	    <string>#if</string>
+	    <string>#elseif</string>
+	    <string>#else</string>
+	    <string>#end</string>
+	    <string>package</string>
+	    <string>import</string>
+	    <string>enum</string>
+	    <string>class</string>
+	    <string>interface</string>
+	    <string>typedef</string>
+	    <string>extends</string>
+	    <string>implements</string>
+	    <string>true</string>
+	    <string>false</string>
+	    <string>null</string>
+	    <string>var</string>
+	    <string>static</string>
+	    <string>dynamic</string>
+	    <string>override</string>
+	    <string>public</string>
+	    <string>private</string>
+	    <string>inline</string>
+	    <string>function</string>
+	    <string>new</string>
+	    <string>callback</string>
+	    <string>here</string>
+	    <string>if</string>
+	    <string>else</string>
+	    <string>while</string>
+	    <string>do</string>
+	    <string>for</string>
+	    <string>in</string>
+	    <string>return</string>
+	    <string>continue</string>
+	    <string>break</string>
+	    <string>try</string>
+	    <string>throw</string>
+	    <string>catch</string>
+	    <string>switch</string>
+	    <string>case</string>
+	    <string>default</string>
+	    <string>this</string>
+	    <string>super</string>
+	    <string>using</string>
+	    <string>cast</string>
+	    <string>untyped</string>
+	    <string>extern</string>
+	    <string>getter</string>
+	    <string>setter</string>
+	    <string>never</string>
+	</array>
+	<key>BBLMPredefinedNameList</key>
+    <array>
+        <string>__new__</string>
+        <string>__keys__</string>
+		<string>__arguments__</string>
+		<string>__typeof__</string>
+		<string>__global__</string>
+		<string>__as__</string>
+		<string>__delete__</string>
+		<string>__eval__</string>
+		<string>__gettimer__</string>
+		<string>__geturl__</string>
+		<string>__instanceof__</string>
+		<string>__in__</string>
+		<string>__is__</string>
+		<string>__keys__</string>
+		<string>__random__</string>
+		<string>__trace__</string>
+		<string>__js__</string>
+		<string>__php__</string>
+		<string>__call__</string>
+		<string>__var__</string>
+		<string>__physeq__</string>
+		<string>__cs__</string>
+		<string>__java__</string>
+		<string>flash8</string>
+		<string>flash</string>
+		<string>js</string>
+		<string>neko</string>
+		<string>php</string>
+		<string>debug</string>
+		<string>Void</string>
+		<string>Float</string>
+		<string>Bool</string>
+		<string>Int</string>
+		<string>Dynamic</string>
+		<string>Unknown</string>
+		<string>EReg</string>
+		<string>Array</string>
+		<string>String</string>
+		<string>List</string>
+		<string>Hash</string>
+		<string>Date</string>
+		<string>Enum</string>
+		<string>Null</string>
+		<string>Iterator</string>
+    </array>
+	<key>BBLMLanguageCode</key>
+	<string>HAXE</string>
+	<key>BBLMLanguageDisplayName</key>
+	<string>HaXe</string>
+	<key>BBLMScansFunctions</key>
+	<true/>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMLanguageSuffix</key>
+			<string>.hx</string>
+		</dict>
+	</array>
+	<key>Language Features</key>
+	<dict>
+		<key>Close Block Comments</key>
+		<string>*/</string>
+		<key>Close Parameter Lists</key>
+		<string>)</string>
+		<key>Close Statement Blocks</key>
+		<string>}</string>
+		<key>Close Strings 1</key>
+		<string>"</string>
+		<key>Close Strings 2</key>
+		<string>'</string>
+		<key>End-of-line Ends Strings 1</key>
+		<false/>
+		<key>End-of-line Ends Strings 2</key>
+		<false/>
+		<key>Escape Char in Strings 1</key>
+		<string>\</string>
+		<key>Escape Char in Strings 2</key>
+		<string></string>
+		<key>Identifier and Keyword Characters</key>
+		<string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz$#</string>
+		<key>Open Block Comments</key>
+		<string>/*</string>
+		<key>Open Line Comments</key>
+		<string>//</string>
+		<key>Open Parameter Lists</key>
+		<string>(</string>
+		<key>Open Statement Blocks</key>
+		<string>{</string>
+		<key>Open Strings 1</key>
+		<string>"</string>
+		<key>Open Strings 2</key>
+		<string>'</string>
+		<key>Prefix for Functions</key>
+		<string></string>
+		<key>Prefix for Procedures</key>
+		<string>#</string>
+		<key>Terminator for Prototypes 1</key>
+		<string></string>
+		<key>Terminator for Prototypes 2</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

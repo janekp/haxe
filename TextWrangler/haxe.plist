@@ -37,7 +37,6 @@
 	    <string>inline</string>
 	    <string>function</string>
 	    <string>new</string>
-	    <string>callback</string>
 	    <string>here</string>
 	    <string>if</string>
 	    <string>else</string>
@@ -63,6 +62,8 @@
 	    <string>getter</string>
 	    <string>setter</string>
 	    <string>never</string>
+	    <string>abstract</string>
+	    <string>macro</string>
 	</array>
 	<key>BBLMPredefinedNameList</key>
     <array>
@@ -91,6 +92,7 @@
 		<string>__java__</string>
 		<string>flash8</string>
 		<string>flash</string>
+		<string>haxe3</string>
 		<string>js</string>
 		<string>neko</string>
 		<string>php</string>
@@ -105,7 +107,7 @@
 		<string>Array</string>
 		<string>String</string>
 		<string>List</string>
-		<string>Hash</string>
+		<string>Map</string>
 		<string>Date</string>
 		<string>Enum</string>
 		<string>Null</string>
